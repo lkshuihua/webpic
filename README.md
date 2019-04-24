@@ -67,7 +67,7 @@ java -jar C:\webpic-1.0-client.jar %1%  yourname password 1 1 com.github.lkshuih
 
 ![](https://ws3.sinaimg.cn/large/007JVmUOgy1g2dmhvbwppj30xi0jvmy1.jpg)
 
-新建项上传微博图床，在此项下再次新建项command，并修改右侧默认值 `cmd.exe /K "C:\wenpic\webpic.bat "%1""`
+新建项上传微博图床，在此项下再次新建项command，并修改右侧默认值 `cmd.exe /K "C:\webpic\webpic.bat "%1""`
 
 ![](https://ws1.sinaimg.cn/large/007JVmUOgy1g2dmkmkrvkj30wv0k7my4.jpg)
 
