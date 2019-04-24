@@ -69,7 +69,7 @@ java -jar C:\webpic-1.0-client.jar %1%  yourname password 1 1 com.github.lkshuih
 
 新建项上传微博图床，在此项下再次新建项command，并修改右侧默认值 `cmd.exe /K "C:\webpic\webpic.bat "%1""`
 
-![](https://ws1.sinaimg.cn/large/007JVmUOgy1g2dmkmkrvkj30wv0k7my4.jpg)
+![](https://ws1.sinaimg.cn/large/007JVmUOgy1g2dnckczc5j30wz0kcjsd.jpg)
 
 
 在C盘根目录建文件夹：webpic，复制刚才的webpic.bat webpic-1.0-client.jar 这两个文件到这 
@@ -93,3 +93,21 @@ exit
 ```
 ![](https://ws2.sinaimg.cn/large/007JVmUOgy1g2dn0c0juej30la0ctjs9.jpg)
 ```
+
+自定义上传快捷键
+桌面上新建快捷方式 webpic
+![](https://ws3.sinaimg.cn/large/007JVmUOgy1g2dnh16peqj30my0lfqal.jpg)
+
+配置其属性,应用即可
+![](https://ws2.sinaimg.cn/large/007JVmUOgy1g2dnjcwb6gj30hs0plgoj.jpg)
+
+按快捷键 `Ctrl  +Alt +W ` 粘贴板没有图像的提示
+![](https://ws1.sinaimg.cn/large/007JVmUOgy1g2dnl4oohoj30u10btdfq.jpg)
+
+截屏再尝试,在网络复制图像也行
+
+![](https://ws1.sinaimg.cn/large/007JVmUOgy1g2dnrrpj52j30nc0iaki2.jpg)
+
+任意地方`Ctrl+v`均可粘贴
+
+![](https://ws3.sinaimg.cn/large/007JVmUOgy1g2dnsz6bv9j30dw0hyh19.jpg)
