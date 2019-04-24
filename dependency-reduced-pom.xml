@@ -4,7 +4,7 @@
   <groupId>com.gitee.jining123</groupId>
   <artifactId>weiboPicture</artifactId>
   <name>weiboPicture</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-client</version>
   <url>http://www.example.com</url>
   <build>
     <plugins>
